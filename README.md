@@ -53,14 +53,6 @@ Tools & Technologies
 
 ⸻
 
- MY PROJECTS
-
-Project	Description	Status
-Password Strength Checker	Python-based password evaluation tool	In Progress
-More Projects	Exploring and building cybersecurity solutions	Coming Soon
-
-⸻
-
  MY GOALS
 
 * Build practical cybersecurity projects
