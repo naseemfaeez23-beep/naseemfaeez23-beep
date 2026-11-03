@@ -73,7 +73,7 @@ More Projects	Exploring and building cybersecurity solutions	Coming Soon
 
  CONNECT WITH ME
 
-*  LinkedIn: ADD_YOUR_LINKEDIN_URL_HERE
+*  LinkedIn:Naseem Dhakam
 *  GitHub: https://github.com/naseemfaeez23-beep
 
 ⸻
